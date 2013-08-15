@@ -1,9 +1,6 @@
 Chicago Public Library Renewal Script
 =====================================
 
-Description
------------
-
 Script to easily allow you to renew your books at Chicago Public Library.
 You can renew up to three times before you have to return or renew on site.
 
